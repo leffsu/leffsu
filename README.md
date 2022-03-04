@@ -15,7 +15,7 @@
 ```
 
 Greetings! Welcome to my cave.
-I am **Lev** and I'm living in **Ivanovo, Russia**.  
+I am **Lev**.  
 My expertise is <img width="14" height="14" src="https://image.flaticon.com/icons/svg/226/226770.svg"/> _android_, but I also play guitar on my free time.   
 
 #### Technologies & tools
