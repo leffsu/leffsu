@@ -4,7 +4,6 @@
                                           id = "leffsu"
                                           name = "Lev Nazarov"
                                           joined = date("22-07-2017")
-                                          location = 57 to 41
                                           experience {
                                               android(4, YEAR)
                                               kotlin(2, YEAR)
