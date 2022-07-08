@@ -5,9 +5,9 @@
                                           name = "Lev Nazarov"
                                           joined = date("22-07-2017")
                                           experience {
-                                              android(4, YEAR)
-                                              kotlin(2, YEAR)
-                                              java(7, YEAR)
+                                              android(5, YEAR)
+                                              kotlin(3, YEAR)
+                                              java(9, YEAR)
                                           }
                                       }
    
